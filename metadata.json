@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "Application météo pour rechercher une ville et consulter la température, la météo en direct, l'humidité, le vent et les prévisions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
